@@ -12,7 +12,7 @@ foto11;Un cartello poco loquace. (Le tre Grazie si potrebbero spostare, per Dio?
 foto12-foto37;La periferia della città: luogo magico dove ciascuno può industriarsi come desidera al fine di rendere la propria città un luogo più colorato e simpatico.
 foto13;Un'innovativo marchio in 4 dimensioni.
 foto14;Un povero triangolo abbandonato in mezzo alla strada, chissà se qualcuno gli darà una mano.
-foto15-foto38;Una chitarra consumata.
+foto15-foto38;Questa chitarra aveva un appuntamento ma si è scordata.
 foto16;Chissà quanto è profondo!
 foto17;La roba al miglior prezzo.
 foto18;L'effetto del viagra sta svanendo.
